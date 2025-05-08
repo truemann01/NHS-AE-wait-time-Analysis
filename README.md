@@ -45,14 +45,14 @@ The dataset contains monthly A&E attendances and emergency admissions across NHS
 ## Summary of Cleaning Steps
 
 - Loaded Excel file and reviewed available sheets
-- Selected the correct sheet: "System Level Data"
+- Selected the correct sheet: "Provider Level Data"
 - Skipped unnecessary top rows to reveal headers
 - Saved cleaned version as CSV
 
 
 ## Folder Structure
 
-<pre>```
+<pre>
 project-folder/
 │
 ├── data/
@@ -64,7 +64,7 @@ project-folder/
 │   ├── 02_exploratory_analysis.ipynb
 │   └── 03_visualizations.ipynb
 │
-└── README.md ```</pre>
+└── README.md  </pre>
 
 
 ## License
