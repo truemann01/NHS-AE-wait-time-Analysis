@@ -9,7 +9,7 @@ This project focuses on cleaning, exploring, and visualising provider-level emer
 - [About the Dataset](#about-the-dataset)
 - [Project Goals](#project-goals)
 - [Tools Used](#tools-used)
-- Summary of Cleaning Steps
+- [Summary of Cleaning Steps](#summary-of-cleaning-steps)
 - [Folder Structure](#folder-structure)
 - [Key Insights](#key-insights)
 - [How to Run](#how-to-run)
