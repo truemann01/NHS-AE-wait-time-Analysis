@@ -12,7 +12,6 @@ This project focuses on cleaning, exploring, and visualising provider-level emer
 - [Summary of Cleaning Steps](#summary-of-cleaning-steps)
 - [Folder Structure](#folder-structure)
 - [Key Insights](#key-insights)
-- [How to Run](#how-to-run)
 - [License](#license)
 
 ---
@@ -53,7 +52,7 @@ The dataset contains monthly A&E attendances and emergency admissions across NHS
 
 ## Folder Structure
 
-
+<pre>```
 project-folder/
 │
 ├── data/
@@ -65,7 +64,8 @@ project-folder/
 │   ├── 02_exploratory_analysis.ipynb
 │   └── 03_visualizations.ipynb
 │
-└── README.md
+└── README.md ```</pre>
+
 
 ## License
 
