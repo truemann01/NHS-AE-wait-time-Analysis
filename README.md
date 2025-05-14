@@ -1,4 +1,4 @@
-# NHS A&E Data Analysis (Provider Level)
+# NHS A&E Data Analysis For March 2025(Provider Level)
 
 A real-world data analysis project using NHS England’s monthly A&E attendance data.  
 This project focuses on cleaning, exploring, and visualising provider-level emergency attendance trends.
@@ -56,15 +56,21 @@ The dataset contains monthly A&E attendances and emergency admissions across NHS
 project-folder/
 │
 ├── data/
-│   ├── raw/            # Original NHS Excel file
-│   └── cleaned/        # Cleaned CSV ready for analysis
+│   ├── raw/
+│   └── cleaned/
 │
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_exploratory_analysis.ipynb
-│   └── 03_visualizations.ipynb
+│   └── 03_visualisations.ipynb   
 │
-└── README.md  </pre>
+├── visualisations/  
+│   ├── top_attendances.png
+│   ├── worst_wait_times.png
+│   └── scatter_performance.png
+│
+├── README.md
+ </pre>
 
 
 ## License
